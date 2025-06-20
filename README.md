@@ -1,6 +1,3 @@
-## 📘 `README.md` for `KKU-AI` (Clean + Cool + Native English)
-
-````markdown
 # 🤖 KKU-AI Hub
 
 Welcome to **KKU-AI** — a curated hub for all things AI, built by and for the Khon Kaen University community. 🇹🇭
