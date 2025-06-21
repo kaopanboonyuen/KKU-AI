@@ -60,10 +60,3 @@ We believe **open AI knowledge** should be accessible — especially in Thai aca
 
 Pull Requests are welcome!
 Please create a feature branch and open a PR with a clear description.
-
----
-
-## 🧠 Maintainers
-
-* Teerapong Panboonyuen
-* KKU AI Lab
